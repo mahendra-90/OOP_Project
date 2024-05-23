@@ -1,5 +1,5 @@
 # OOP_Project
-This is my first project of OOP.
+This is my first OOP project.
 <br>
 This project is done by:
 <br>
